@@ -264,11 +264,11 @@
     "city_count": 197
   },
   {
-    "country_name": "Uruguay",
+    "country_name": "Cuba",
     "city_count": 187
   },
   {
-    "country_name": "Cuba",
+    "country_name": "Uruguay",
     "city_count": 187
   },
   {
@@ -292,11 +292,11 @@
     "city_count": 162
   },
   {
-    "country_name": "Costa Rica",
+    "country_name": "New Zealand",
     "city_count": 159
   },
   {
-    "country_name": "New Zealand",
+    "country_name": "Costa Rica",
     "city_count": 159
   },
   {
@@ -344,11 +344,11 @@
     "city_count": 136
   },
   {
-    "country_name": "Uzbekistan",
+    "country_name": "Iraq",
     "city_count": 135
   },
   {
-    "country_name": "Iraq",
+    "country_name": "Uzbekistan",
     "city_count": 135
   },
   {
@@ -412,11 +412,11 @@
     "city_count": 92
   },
   {
-    "country_name": "Afghanistan",
+    "country_name": "Uganda",
     "city_count": 91
   },
   {
-    "country_name": "Uganda",
+    "country_name": "Afghanistan",
     "city_count": 91
   },
   {
@@ -468,11 +468,11 @@
     "city_count": 74
   },
   {
-    "country_name": "Iceland",
+    "country_name": "Senegal",
     "city_count": 73
   },
   {
-    "country_name": "Senegal",
+    "country_name": "Iceland",
     "city_count": 73
   },
   {
@@ -480,11 +480,11 @@
     "city_count": 72
   },
   {
-    "country_name": "Sudan",
+    "country_name": "Zambia",
     "city_count": 71
   },
   {
-    "country_name": "Zambia",
+    "country_name": "Sudan",
     "city_count": 71
   },
   {
@@ -516,11 +516,11 @@
     "city_count": 57
   },
   {
-    "country_name": "Jersey",
+    "country_name": "Guinea",
     "city_count": 54
   },
   {
-    "country_name": "Guinea",
+    "country_name": "Jersey",
     "city_count": 54
   },
   {
@@ -532,11 +532,11 @@
     "city_count": 51
   },
   {
-    "country_name": "Chad",
+    "country_name": "Timor-Leste",
     "city_count": 50
   },
   {
-    "country_name": "Timor-Leste",
+    "country_name": "Chad",
     "city_count": 50
   },
   {
@@ -564,19 +564,19 @@
     "city_count": 42
   },
   {
-    "country_name": "Mongolia",
-    "city_count": 40
-  },
-  {
     "country_name": "Taiwan",
     "city_count": 40
   },
   {
-    "country_name": "Mozambique",
-    "city_count": 38
+    "country_name": "Mongolia",
+    "city_count": 40
   },
   {
     "country_name": "Kiribati",
+    "city_count": 38
+  },
+  {
+    "country_name": "Mozambique",
     "city_count": 38
   },
   {
@@ -584,11 +584,11 @@
     "city_count": 36
   },
   {
-    "country_name": "Montenegro",
+    "country_name": "Martinique",
     "city_count": 34
   },
   {
-    "country_name": "Martinique",
+    "country_name": "Montenegro",
     "city_count": 34
   },
   {
@@ -612,11 +612,11 @@
     "city_count": 29
   },
   {
-    "country_name": "Oman",
+    "country_name": "Gabon",
     "city_count": 28
   },
   {
-    "country_name": "Gabon",
+    "country_name": "Oman",
     "city_count": 28
   },
   {
@@ -624,11 +624,11 @@
     "city_count": 27
   },
   {
-    "country_name": "Singapore",
+    "country_name": "Lebanon",
     "city_count": 26
   },
   {
-    "country_name": "Lebanon",
+    "country_name": "Singapore",
     "city_count": 26
   },
   {
@@ -640,11 +640,11 @@
     "city_count": 25
   },
   {
-    "country_name": "Reunion",
+    "country_name": "Equatorial Guinea",
     "city_count": 24
   },
   {
-    "country_name": "Equatorial Guinea",
+    "country_name": "Reunion",
     "city_count": 24
   },
   {
@@ -656,15 +656,15 @@
     "city_count": 22
   },
   {
-    "country_name": "The Bahamas",
-    "city_count": 21
-  },
-  {
     "country_name": "Maldives",
     "city_count": 21
   },
   {
-    "country_name": "Virgin Islands (US)",
+    "country_name": "The Bahamas",
+    "city_count": 21
+  },
+  {
+    "country_name": "Fiji Islands",
     "city_count": 20
   },
   {
@@ -672,7 +672,7 @@
     "city_count": 20
   },
   {
-    "country_name": "Fiji Islands",
+    "country_name": "Virgin Islands (US)",
     "city_count": 20
   },
   {
@@ -696,11 +696,11 @@
     "city_count": 17
   },
   {
-    "country_name": "Palau",
+    "country_name": "Man (Isle of)",
     "city_count": 16
   },
   {
-    "country_name": "Man (Isle of)",
+    "country_name": "Palau",
     "city_count": 16
   },
   {
@@ -720,11 +720,11 @@
     "city_count": 14
   },
   {
-    "country_name": "Suriname",
+    "country_name": "Saint Kitts and Nevis",
     "city_count": 13
   },
   {
-    "country_name": "Saint Kitts and Nevis",
+    "country_name": "Suriname",
     "city_count": 13
   },
   {
@@ -732,11 +732,11 @@
     "city_count": 13
   },
   {
-    "country_name": "Rwanda",
+    "country_name": "Djibouti",
     "city_count": 12
   },
   {
-    "country_name": "Djibouti",
+    "country_name": "Rwanda",
     "city_count": 12
   },
   {
@@ -744,11 +744,11 @@
     "city_count": 12
   },
   {
-    "country_name": "Liechtenstein",
+    "country_name": "Eritrea",
     "city_count": 11
   },
   {
-    "country_name": "Eritrea",
+    "country_name": "Liechtenstein",
     "city_count": 11
   },
   {
@@ -760,27 +760,11 @@
     "city_count": 10
   },
   {
-    "country_name": "Madagascar",
-    "city_count": 9
-  },
-  {
-    "country_name": "Tuvalu",
-    "city_count": 9
-  },
-  {
-    "country_name": "Bermuda",
-    "city_count": 9
-  },
-  {
-    "country_name": "San Marino",
-    "city_count": 9
-  },
-  {
     "country_name": "Antigua and Barbuda",
     "city_count": 9
   },
   {
-    "country_name": "Bahrain",
+    "country_name": "Madagascar",
     "city_count": 9
   },
   {
@@ -792,6 +776,26 @@
     "city_count": 9
   },
   {
+    "country_name": "Bahrain",
+    "city_count": 9
+  },
+  {
+    "country_name": "Bermuda",
+    "city_count": 9
+  },
+  {
+    "country_name": "San Marino",
+    "city_count": 9
+  },
+  {
+    "country_name": "Tuvalu",
+    "city_count": 9
+  },
+  {
+    "country_name": "Tonga",
+    "city_count": 8
+  },
+  {
     "country_name": "Bonaire, Sint Eustatius and Saba",
     "city_count": 8
   },
@@ -800,11 +804,7 @@
     "city_count": 8
   },
   {
-    "country_name": "Tonga",
-    "city_count": 8
-  },
-  {
-    "country_name": "Vanuatu",
+    "country_name": "Cayman Islands",
     "city_count": 7
   },
   {
@@ -812,11 +812,11 @@
     "city_count": 7
   },
   {
-    "country_name": "Nauru",
+    "country_name": "Solomon Islands",
     "city_count": 7
   },
   {
-    "country_name": "Solomon Islands",
+    "country_name": "Vanuatu",
     "city_count": 7
   },
   {
@@ -824,7 +824,7 @@
     "city_count": 7
   },
   {
-    "country_name": "Cayman Islands",
+    "country_name": "Nauru",
     "city_count": 7
   },
   {

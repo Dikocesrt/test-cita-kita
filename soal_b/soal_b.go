@@ -8,6 +8,7 @@ import (
 	"net/http"
 	"os"
 	"sort"
+	"strconv"
 	"strings"
 )
 
@@ -78,6 +79,7 @@ func main() {
 	})
 
 	saveToJSON("output.json", results)
+	saveToCSV("output.csv", results)
 
 	fmt.Println("output.csv and output.json have been created successfully.")
 }
@@ -92,4 +94,22 @@ func saveToJSON(filename string, data []CountryCityCount) {
 	enc := json.NewEncoder(f)
 	enc.SetIndent("", "  ")
 	enc.Encode(data)
+}
+
+func saveToCSV(filename string, data []CountryCityCount) {
+	f, err := os.Create(filename)
+	if err != nil {
+		fmt.Println("failed write csv:", err)
+		return
+	}
+	defer f.Close()
+
+	w := csv.NewWriter(f)
+	defer w.Flush()
+
+	w.Write([]string{"country_name", "city_count"})
+
+	for _, d := range data {
+		w.Write([]string{d.CountryName, strconv.Itoa(d.CityCount)})
+	}
 }
