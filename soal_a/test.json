@@ -1,0 +1,29 @@
+{
+    "test_cases": [
+        {
+            "id": 1,
+            "root_words": ["run", "jump", "walk"],
+            "sentence": "the runner was jumping and walking quickly"
+        },
+        {
+            "id": 2,
+            "root_words": ["code", "test", "debug"],
+            "sentence": "the coder was testing and debugging the application"
+        },
+        {
+            "id": 3,
+            "root_words": ["play", "work", "study"],
+            "sentence": "the player was working while studying for exams"
+        },
+        {
+            "id": 4,
+            "root_words": ["cook", "clean", "wash"],
+            "sentence": "she was cooking and cleaning while washing dishes"
+        },
+        {
+            "id": 5,
+            "root_words": ["eat", "drink", "sleep"],
+            "sentence": "after eating and drinking, he was sleeping peacefully"
+        }
+    ]
+}
