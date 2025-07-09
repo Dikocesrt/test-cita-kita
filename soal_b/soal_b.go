@@ -7,6 +7,7 @@ import (
 	"io"
 	"net/http"
 	"os"
+	"path/filepath"
 	"sort"
 	"strconv"
 	"strings"
@@ -78,8 +79,8 @@ func main() {
 		return results[i].CityCount > results[j].CityCount
 	})
 
-	saveToJSON("output.json", results)
-	saveToCSV("output.csv", results)
+	saveToJSON(filepath.Join("soal_b", "output.json"), results)
+    saveToCSV(filepath.Join("soal_b", "output.csv"), results)
 
 	fmt.Println("output.csv and output.json have been created successfully.")
 }
