@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"sort"
 	"strings"
 )
@@ -31,5 +32,18 @@ func replaceWithRootWords(rootWords []string, sentence string) string {
 }
 
 func main(){
+	// Soal 1
+	rootWords1 := []string{"cat", "bat", "rat"}
+	sentence1 := "the cattle was rattled by the battery"
+	result1 := replaceWithRootWords(rootWords1, sentence1)
+	fmt.Println("Soal 1 Output:")
+	fmt.Println(result1)
+	fmt.Println()
 
+	// Soal 2
+	rootWords2 := []string{"dog", "car", "bike"}
+	sentence2 := "the dogs were barking near the cars and bikers"
+	result2 := replaceWithRootWords(rootWords2, sentence2)
+	fmt.Println("Soal 2 Output:")
+	fmt.Println(result2)
 }
