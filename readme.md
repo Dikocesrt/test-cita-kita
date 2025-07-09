@@ -4,7 +4,7 @@ Repository ini merupakan repository untuk technical test pemrograman dalam melam
 
 ## 📋 Instruksi
 
-![Instruksi Technical Test](LINK_GAMBAR_INSTRUKSI_AKAN_DITAMBAHKAN)
+![Instruksi Technical Test](https://res.cloudinary.com/dy2fwknbn/image/upload/v1752065801/Screenshot_2025-07-09_at_12.56.24_jzi3kn.png)
 
 ## 📁 Struktur Repository
 
@@ -23,7 +23,7 @@ Repository ini merupakan repository untuk technical test pemrograman dalam melam
 1. **Clone repository ini:**
 
     ```bash
-    git clone <URL_REPOSITORY>
+    git clone https://github.com/Dikocesrt/test-cita-kita.git
     ```
 
 2. **Masuk ke direktori repository:**

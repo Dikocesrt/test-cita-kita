@@ -2,7 +2,7 @@
 
 ## 📋 Soal
 
-![Soal A](LINK_GAMBAR_SOAL_A_AKAN_DITAMBAHKAN)
+![Soal A](https://res.cloudinary.com/dy2fwknbn/image/upload/v1752065801/Screenshot_2025-07-09_at_12.55.31_hv8ngi.png)
 
 ## 🚀 Cara Clone dan Menjalankan
 
